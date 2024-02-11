@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ugurcanodabasi
+- 👀 I’m interested in data
+- 🌱 I’m currently learning Python
+- 📫 How to reach me ugurcanodabasi@gmail.com
